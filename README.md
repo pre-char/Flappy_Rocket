@@ -2,7 +2,7 @@
 it's a game similar to flappy bird
 
 ## Story line
-This is a story about a world with human rockets. The rocket has eye and legs. \n
+This is a story about a world with human rockets. The rocket has eye and legs.    
 There is a baby rocket learning how to fly. Its mother prepared several logs with holes on them. In the game, players are the baby rocket.
 
 ## Video link
