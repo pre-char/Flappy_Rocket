@@ -1,6 +1,7 @@
-# Thanks for playing my Flappy Rocket game.
+# Flappy Rocket
+it's a game similar to flappy bird
 
-## video link
+## Video link
 https://youtu.be/ERnl9SH5ssE
 
 ## How to play
